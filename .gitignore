@@ -1,0 +1,8 @@
+.env
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+.DS_Store
+results_live.json
